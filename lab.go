@@ -6,4 +6,4 @@
 package pseudolab
 
 // Stage identifies the experiment stage represented by this commit.
-const Stage = "initial-release"
+const Stage = "untagged-successor"
